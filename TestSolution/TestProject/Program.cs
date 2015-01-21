@@ -21,5 +21,10 @@ namespace TestProject
         {
             // This is to see if it will commit.
         }
+
+        static void ThisIsAnotherMethod()
+        {
+
+        }
     }
 }
