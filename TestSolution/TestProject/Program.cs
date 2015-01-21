@@ -16,5 +16,10 @@ namespace TestProject
         {
 
         }
+
+        static void b()
+        {
+
+        }
     }
 }
